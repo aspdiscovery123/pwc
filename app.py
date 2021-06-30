@@ -14,3 +14,4 @@ app=Flask(__name__)
 def abcd():
     return "hello flask"
 
+app.run()
